@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student name="Иванов_Иван_Иванович" disciplines="Математика Русский Информатика Физика" scores="90 90 90 90" />
+    <student name="Агеева_Ада_Александровна" disciplines="Информатика Математика Русский" scores="80 80 70" />
+    <student name="Шалагинова_Надежда_Владимировна" disciplines="Химия Биология" scores="40 50" />
+</students>
